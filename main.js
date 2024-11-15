@@ -2404,6 +2404,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     "Half Journal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2413,6 +2414,30 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
@@ -2428,6 +2453,30 @@ document.addEventListener("DOMContentLoaded", () => {
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Productivity": {
@@ -2442,10 +2491,35 @@ document.addEventListener("DOMContentLoaded", () => {
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Minimal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2455,11 +2529,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Journal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2469,11 +2568,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "24 Hour planner": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2483,11 +2607,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Priority Matrix": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2497,11 +2646,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Graph": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2511,11 +2685,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Blank": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2525,11 +2724,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Self Care": {
       "dailyLayouts": {
+       "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2539,11 +2763,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Lined & Grid": {
       "dailyLayouts": {
+       "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2553,6 +2802,30 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
@@ -2598,6 +2871,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     "Half Journal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2607,11 +2881,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Canvas": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2621,11 +2920,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Productivity": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2635,11 +2959,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Minimal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2649,11 +2998,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Journal": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2663,11 +3037,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "24 Hour planner": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2677,6 +3076,30 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
@@ -2692,10 +3115,35 @@ document.addEventListener("DOMContentLoaded", () => {
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Graph": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2705,11 +3153,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Blank": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2719,11 +3192,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Self Care": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2733,11 +3231,36 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
     "Lined & Grid": {
       "dailyLayouts": {
+        "dailyLayouts": {
         "Horizaontal Box":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Vertical box":
@@ -2747,6 +3270,30 @@ document.addEventListener("DOMContentLoaded", () => {
         "Weekly Grid":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
         "Weekly Scheduled":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Setting Horizontal":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Scheduled Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizaontal Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Box Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Blank Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Weekly Grid Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Horizontal Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Vertical Lined Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Vertical Grey":
+          "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
+        "Goal Horizaontal Grey":
           "https://example.com/pdfs/2024-rainbow-sunday-horizontal-balance.pdf",
       },
     },
